@@ -1,21 +1,21 @@
 [![MasterHead](https://static.wixstatic.com/media/bb7b70_be15a8eee345492095b8ddf1a2722960~mv2.gif)](https://nucontreras.io)
 
-<h1 align="center">Hi 👋, I'm Nicolás Contreras</h1>
-<h3 align="center">A Machine Learning & Robotics Engineer</h3>
+<h1 align="center">Hi 👋, I'm Alexandre Thomassin</h1>
+<h3 align="center">A Computer science & Machine learning engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nucontreras&label=Profile%20views&color=0e75b6&style=flat" alt="nucontreras" /> </p>
 
-- 🌱 I’m currently learning **Reinforcement learning & ASP**
+- 🌱 I’m currently learning **AI (Machine Learning), ASP, Model Checking (MC, MDP) **
 
 - 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **nucontreras@uc.cl**
+- 📫 How to reach me **alexandre.thomassin@eleves.ec-nantes.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicolas-contreras-perez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-contreras-perez/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alexandre-thomassin-714883211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexandre-thomassin-714883211/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
