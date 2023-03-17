@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **alexandre.thomassin@eleves.ec-nantes.fr**
+- 📫 How to reach me **alex45thomassin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +37,7 @@
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrethomassin) 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alexandrethomassin&show_icons=true&locale=en" alt="alexandrethomassin" width = "400"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrethomassin&" alt="alexandrethomassin" width = "400"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alexandrethomassin&show_icons=true&locale=en" alt="alexandrethomassin" height = "165"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrethomassin&" alt="alexandrethomassin" height = "165"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrethomassin&show_icons=true&locale=en&layout=compact" alt="alexandrethomassin" /></p>
