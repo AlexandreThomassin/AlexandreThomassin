@@ -36,7 +36,7 @@
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrethomassin) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrethomassin&theme=default) 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alexandrethomassin&show_icons=true&locale=en" alt="alexandrethomassin" height = "165"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrethomassin&" alt="alexandrethomassin" height = "165"/></p>
 
