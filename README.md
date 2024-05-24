@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nucontreras&label=Profile%20views&color=0e75b6&style=flat" alt="nucontreras" /> </p>
 
-- 🌱 I’m currently learning **AI (Machine Learning), ASP, Model Checking (MC, MDP)**
+- 🌱 I’m currently learning <br> **Software Development (Java - Spring, Python - ML / Dash & Flask)**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning & Software Development**
 
 - 📫 How to reach me **alex45thomassin@gmail.com**
 
